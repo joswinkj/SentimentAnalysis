@@ -7,6 +7,8 @@ def test_stanford(text):
     print(rels)
     times = se.identify_time(text)
     print(times)
+    times_rels = se.ret_time_rels(text)
+    print(times_rels)
 
 if __name__ == '__main__':
     if len(sys.argv)>1:
