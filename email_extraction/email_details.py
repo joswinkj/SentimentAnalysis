@@ -1,4 +1,4 @@
-username = 'joswin.ideas2it@gmail.com'
-password = 'M!ttuN01an'
-imap_server = 'imap.gmail.com'
-inbox_folder = 'ToMe'
+username = 'username@maildomain'
+password = 'passwrd'
+imap_server = 'imap.server.details'
+inbox_folder = 'Inbox_or_other_folder_name'
