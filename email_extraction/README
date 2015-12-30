@@ -1,0 +1,10 @@
+#before running:
+edit the email_details.py file to include the username and password.(currently supports only gmail)
+go to gmail account, create a label called 'Unrecieved'. 
+then go to settings and create a new filter where all mails from 'mailer-daemon@googlemail.com' are put into this label.
+
+#running in python3.4 eg:
+
+from email_finder import EmailFinderService
+EmailFinderService(separator_list).find_emails_single('ideas2it.com','firstname','middlename','lastname')
+where separator_list is a list of separators between names. like ['.','_','','-']
