@@ -3006,7 +3006,7 @@ nauseate	-0.41
 nauseates	-0.51
 nauseating	-0.61
 nauseatingly	-0.81
-naïve	-0.11
+naï¿½ve	-0.11
 nebulous	-0.41
 nebulously	-0.61
 needless	-0.41
@@ -4640,7 +4640,7 @@ vilify	-0.21
 villainous	-0.61
 villainously	-0.81
 villains	-0.41
-villian	-0.31
+villain	-0.31
 villianous	-0.61
 villianously	-0.81
 villify	-0.31

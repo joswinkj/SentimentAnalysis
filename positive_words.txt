@@ -1435,7 +1435,7 @@ reassurance	0.71
 reassure	0.41
 receptive	0.51
 reclaim	0.31
-recomend	0.41
+recommend	0.41
 recommend	0.51
 recommendation	1.01
 recommendations	1.11
